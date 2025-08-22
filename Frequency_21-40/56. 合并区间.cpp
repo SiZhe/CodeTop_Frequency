@@ -1,5 +1,5 @@
 #include "../core.hpp"
-
+// 排序前要对区间进行左端点从小到大排序
 #if 0
 class Solution {
 public:
